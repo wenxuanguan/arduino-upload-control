@@ -1,0 +1,5 @@
+arduino program to check user`s command begin/end and start/stop upload the data. To control the arduino, login http://www.iot.fm
+
+http_upcheck/http_upcheck.ino:arduino program connect to http web-server with port 8080
+tcp_upcheck/tcp_upcheck.ino:arduino program connect to http web-server with port 9501
+
